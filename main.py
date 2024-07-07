@@ -1,0 +1,1 @@
+print("road accident prediction")
